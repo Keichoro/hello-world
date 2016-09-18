@@ -1,1 +1,2 @@
 "Hello"
+"Kono Dio Da!"
